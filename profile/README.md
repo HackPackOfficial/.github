@@ -4,3 +4,4 @@
 
 This repository contains any Open Source repos published by [CrunchLabs](https://www.crunchlabs.com/) for [Hack Pack](https://www.crunchlabs.com/products/hack-pack-subscription) boxes.
 
+If you need access to this github, ask Dan.
